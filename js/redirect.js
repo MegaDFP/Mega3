@@ -1,0 +1,1 @@
+window.location.replace('https://megadfp.github.io/Mega3/')
